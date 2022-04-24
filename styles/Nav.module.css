@@ -1,0 +1,15 @@
+.container {
+    padding: 0 2rem;
+    background: black;
+    color: white;
+}    
+.container ul{
+    list-style: none;  
+    display: flex;
+    }
+.container ul li{
+    margin: 10px;
+}
+  
+  
+  
